@@ -1,0 +1,28 @@
+name: MaartenDrupsteen
+favicon: null
+layout_spectrum: 0.7863181363791227
+typography_spectrum: 0.368701248196885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4399993089027703
+  lightness: 0.9885968780145049
+  saturation: 0.5624255833681673
+  rhythmicContrast: 0.44402682851068676
+purpose: []
