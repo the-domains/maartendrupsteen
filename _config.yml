@@ -1,7 +1,7 @@
 name: MaartenDrupsteen
 favicon: null
-layout_spectrum: 0.7863181363791227
-typography_spectrum: 0.368701248196885
+layout_spectrum: 1
+typography_spectrum: 0.10035
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.4399993089027703
-  lightness: 0.9885968780145049
-  saturation: 0.5624255833681673
-  rhythmicContrast: 0.44402682851068676
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
