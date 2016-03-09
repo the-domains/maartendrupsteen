@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Combining the thrills of the hunt with doing something close to wrong
-datePublished: '2016-03-03T08:42:08.245Z'
-dateModified: '2016-03-03T08:40:52.381Z'
+description: ''
+datePublished: '2016-03-09T11:23:51.656Z'
+dateModified: '2016-03-09T11:23:48.518Z'
 title: Breaking and Entering
 author: []
 sourcePath: _posts/2016-03-03-breaking-and-entering.md
