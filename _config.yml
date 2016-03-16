@@ -1,7 +1,7 @@
 name: MaartenDrupsteen
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.70261
+typography_spectrum: 1
 title: MaartenDrupsteen TheGrid testdrive
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#fdfdfd'
     - '#4f462e'
     - '#757265'
-  brandStrength: 0.0625
-  lightness: 0
-  saturation: 0.625
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
